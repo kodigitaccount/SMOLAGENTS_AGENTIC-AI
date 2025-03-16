@@ -1,0 +1,67 @@
+^^^^ AGENTIC AI (SMOLAGENTS)
+==== 16th Mar 2025
+==== Live Link : 
+youtube.com/watch?v=qCbpEooAi6A&list=PLVlQHNRLflP8JthpjvJFaofUkJS1A7qa1&index=1
+
+
+2025 - AGENTIC AI ERA 
+=== 
+
+New learners if you some of concept if you feel not understnad i will share previous recording
+	you can watch it -- you can understand everything 
+	
+1- My Introduction -->
+		https://www.linkedin.com/in/kodi-prakash-senapati-a95a60182/
+	1-on-1 discussion 
+
+2- I will share previous playlist about gen ai, llm , agentic ai
+
+3- Marketing vs Digital Marketing 
+	Agents vs Digital Agents also works similar agent
+
+4- Agents will do the task automatically (AUTONOMOUS AGENT)
+
+5- world most of the organizat they implemtn these trending concept in their project
+		every organizat layoff are goings on 
+		agenti ai technloy work link more employe work
+		
+6- agents integrate with llm they do automatica task for use case, project
+
+7- Agentic AI most follow reinforcemnet learning ?
+
+8- what is agentic ai ? 
+		what is agents . what agents can do
+
+9- agentic ai framework 
+	HUGGINGFACE -- SMOLAGENTS ?
+
+10- intro to smol agent --> lightweiehgt , 
+
+
+11- Practicle 
+		
+ide -- vs code 
+
+hugging face api key 
+google ai api key 
+
+12- open vs code 
+---
+hugging face auth token -->
+
+google api key -->
+---
+
+smolagents are built by hugging face hf auth token ?
+agents must should integrated to llm -- gemini api key 
+
+
+
+
+
+
+
+
+
+
+
